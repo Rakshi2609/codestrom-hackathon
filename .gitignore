@@ -17,3 +17,5 @@ data/*
 Thumbs.db
 
 
+config.bat
+node_modules
